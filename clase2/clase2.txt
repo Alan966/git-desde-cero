@@ -4,3 +4,8 @@ git commit -m "lo que quiero que se guarde en la bitacora" es para poder guardar
 git log para ver lo que se ha guardado en mensajes
 git commit -am "Para agregar el commit de un solo paso" 
 gtt commit -am solo sirve para agregar archivo no agregar carpetas
+
+
+Aprender a arepentirnos
+
+git checkout index.html Para resetear los cambios en el index html
