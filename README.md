@@ -1,2 +1,9 @@
-# git-desde-cero
-Practicas del curos de edteam 2022
+# Documentacion del proyecto 
+
+Bienvenidos al curso de Git No desde cero 
+En este cruso aprenderas: 
+- Instalacion de Git
+- Creacion de un repositorio 
+- ... y mucho mas
+
+

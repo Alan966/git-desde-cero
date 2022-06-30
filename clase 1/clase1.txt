@@ -25,4 +25,7 @@ git status me muestra como esta y como se encuentra ese repositorio en ese momen
 git add archivo o carpeta para agregar un archivo o carpeta 
 git add . agrega los archivos 
 git commit -am "se agrega un comentatio y con eso se pasa al repositorio"
-git commit te abrira una consola para escribir y hacer commit en ella
+git commit te abrira una consola para escribir y hacer commit en ella 
+para hacer un commit necesitas escribir esc segudio de :wq y enter 
+
+gti log nos da la bitacora del capitan para que podamos ver lo que se ha escrito sobre ello
