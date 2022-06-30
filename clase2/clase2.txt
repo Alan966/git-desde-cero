@@ -12,3 +12,6 @@ git checkout index.html Para resetear los cambios en el index html
 git checkout . elimina todo lo que hicimos en las carpetas anteriores
 
 Quitar archivos del area de preparacion 
+git restore --staged styles/Global.css
+
+git diff  styles/Global.css nos esneñara la diferencia entee el codigo del repositorio y del que tenemos
