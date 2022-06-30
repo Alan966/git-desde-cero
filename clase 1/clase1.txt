@@ -1,0 +1,28 @@
+-git init para empezar a utilizar git
+
+
+git congif nos ayudara a setear algunas configuraciones
+
+
+git config --global user.name "alanuadalupe" para decirle de forma global quien sera el autor del codigo 
+$ git config --global user.email "alanuadalupe1665@gmail.com" para configurar el correo y setearlo 
+
+git config --l para saber todas las configuraciones que emos hecho 
+
+
+COMO COMENZAR UN REPOSITORIO 
+
+git init comienza un nuevo repositorio 
+
+LOS ESTADO DE GIT 
+1.-ESPACIO DE TRABAJAO 
+2.-AREA DE PREPARACION 
+3.REPOSITORIO
+
+
+git status me muestra como esta y como se encuentra ese repositorio en ese momento
+
+git add archivo o carpeta para agregar un archivo o carpeta 
+git add . agrega los archivos 
+git commit -am "se agrega un comentatio y con eso se pasa al repositorio"
+git commit te abrira una consola para escribir y hacer commit en ella
