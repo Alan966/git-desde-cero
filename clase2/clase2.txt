@@ -9,3 +9,6 @@ gtt commit -am solo sirve para agregar archivo no agregar carpetas
 Aprender a arepentirnos
 
 git checkout index.html Para resetear los cambios en el index html
+git checkout . elimina todo lo que hicimos en las carpetas anteriores
+
+Quitar archivos del area de preparacion 
