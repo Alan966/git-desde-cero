@@ -2,3 +2,5 @@ git add . significa la carpeta actual  es decir todos los archivos dentro de la 
 significa que guarda todos los archivos de la carpeta en la que estoy parado
 git commit -m "lo que quiero que se guarde en la bitacora" es para poder guardar o agregar lo que queremos enviarle para que guarde
 git log para ver lo que se ha guardado en mensajes
+git commit -am "Para agregar el commit de un solo paso" 
+gtt commit -am solo sirve para agregar archivo no agregar carpetas
