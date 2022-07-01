@@ -1,0 +1,22 @@
+git log 
+git checkout e78a172f83f40a4991179f6538024e110eb4b08c con esto me lleva a la fecha donde se hixo 
+ese commit para poder ver que tenia el proyecto en ese momento
+git log --raw
+git log --summary
+git log --oneline
+git log --oneline -n numero para ver cuantos mensajes queremos ver 
+git log --pretty=format:"El autor del commit %h fue %an"
+git log --oneline -n 3
+
+Ramas 
+git checkout -b development para estar en la rama development 
+git branch para ver todas las ramas que hay 
+git log --oneline --all
+git log --oneline --all --graph
+git log --oneline --all --graph --decorate
+
+Como cambiar de rama
+git checkout main 
+o git switch development
+
+git log --oneline --all --graph --decorate
