@@ -8,19 +8,3 @@ git log --oneline -n numero para ver cuantos mensajes queremos ver
 git log --pretty=format:"El autor del commit %h fue %an"
 git log --oneline -n 3
 
-Ramas 
-git checkout -b development para estar en la rama development 
-git branch para ver todas las ramas que hay 
-git log --oneline --all
-git log --oneline --all --graph
-git log --oneline --all --graph --decorate
-Como cambiar de rama
-git checkout main 
-o git switch development
-
-git log --oneline --all --graph --decorate
-git log --oneline --all --graph --decorate
-git merge es para combinar las ramas
-git branch -D development para elimnar una rama
-
-Como cambiar de rama
