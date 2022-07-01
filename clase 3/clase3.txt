@@ -14,8 +14,6 @@ git branch para ver todas las ramas que hay
 git log --oneline --all
 git log --oneline --all --graph
 git log --oneline --all --graph --decorate
-
-<<<<<<< HEAD
 Como cambiar de rama
 git checkout main 
 o git switch development
@@ -24,6 +22,5 @@ git log --oneline --all --graph --decorate
 git log --oneline --all --graph --decorate
 git merge es para combinar las ramas
 git branch -D development para elimnar una rama
-=======
+
 Como cambiar de rama
->>>>>>> developmnet
