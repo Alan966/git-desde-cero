@@ -20,3 +20,5 @@ git checkout main
 o git switch development
 
 git log --oneline --all --graph --decorate
+git log --oneline --all --graph --decorate
+git merge es para combinar las ramas
