@@ -14,3 +14,5 @@ git merge es para combinar las ramas
 git branch -D development para elimnar una rama
 
 Como cambiar de rama
+
+para clonar un tepositorio lo unico que tenemos que hacer es hacer un git clone de el proyecto que deseamos clonar
